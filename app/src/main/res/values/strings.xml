@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scan Mastercard</string>
+    <string name="string_cannot_scan">"Can't scan ?"</string>
+    <string name="string_scan_qr_code">SCAN QR CODE</string>
+</resources>

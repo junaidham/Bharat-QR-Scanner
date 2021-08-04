@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorGoldenYellow">#E8B406</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <declare-styleable name="PPQrFinderIndicatorView"><attr format="dimension" name="ppscan_corner_width"/><attr format="dimension" name="ppscan_corner_length"/><attr format="color" name="ppscan_corner_color"/><attr format="color" name="ppscan_laser_color"/><attr format="dimension" name="ppscan_laser_thickness"/></declare-styleable>
+    <string name="app_name">Scan SDK</string>
+    <string name="string_cannot_scan">"Can't scan ?"</string>
+    <string name="string_scan_qr_code">SCAN QR CODE</string>
+    <style name="ppscan_CaptureTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorAccent">@color/colorGoldenYellow</item>
+    </style>
+</resources>
